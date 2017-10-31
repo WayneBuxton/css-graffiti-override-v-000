@@ -1,6 +1,5 @@
-.tag-1 {
-    background: url(../images/tag-1.png) no-repeat;
-    z-index: 7;
+#wall .tag-1 {
+  
     display: none;
 }
 
@@ -15,4 +14,3 @@ div#wall + #tag-3.slick {
     z-index: 5;
     display: none;
 }
-
